@@ -1,6 +1,12 @@
 # Overseerr iOS
 
-Download: https://apps.apple.com/app/overseerr/id6581485306
+<p align="left">
+    <a href="https://apps.apple.com/app/overseerr/id6581485306">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Download on the App Store">
+    </a>
+</p>
+
+Download: [Overseerr iOS](https://apps.apple.com/app/overseerr/id6581485306)
 
 ## Support
 
