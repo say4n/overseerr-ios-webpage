@@ -6,7 +6,7 @@
     </a>
 </p>
 
-Download: [Overseerr iOS](https://apps.apple.com/app/overseerr/id6581485306)
+[Download](https://apps.apple.com/app/overseerr/id6581485306)
 
 ## Support
 
@@ -22,7 +22,7 @@ Make sure to include debug logs to help sort out your issue faster, the steps to
 
 ## Privacy Policy
 
-See: https://sayan.page/privacy-policy/overseerr/
+See: [https://sayan.page/privacy-policy/overseerr/](http://privacy.optionalstudio.work/overseerr/)
 
 ---
 
