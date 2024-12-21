@@ -10,7 +10,7 @@
 
 ## Support
 
-Please reach out to overseerr-ios@sayan.page
+Please reach out to [email@overseerr.optionalstudio.work](mailto:email@overseerr.optionalstudio.work)
 
 Make sure to include debug logs to help sort out your issue faster, the steps to export them are:
 
