@@ -15,6 +15,7 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         files: |-
           index.md
+        title: "Overseerr iOS"
     # - run: cp ./images ./dist/images/
     - uses: actions/upload-pages-artifact@v3
       with:
