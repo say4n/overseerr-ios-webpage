@@ -22,7 +22,7 @@ Make sure to include debug logs to help sort out your issue faster, the steps to
 
 ## Privacy Policy
 
-See: [http://privacy.optionalstudio.work/overseerr/](http://privacy.optionalstudio.work/overseerr/)
+See: [https://privacy.optionalstudio.work/overseerr/](https://privacy.optionalstudio.work/overseerr/)
 
 ---
 
