@@ -25,5 +25,4 @@ Make sure to include debug logs to help sort out your issue faster, the steps to
 See: [https://overseerr.optionalstudio.work/privacy/](https://overseerr.optionalstudio.work/privacy/)
 
 ---
-
 Cheers!
