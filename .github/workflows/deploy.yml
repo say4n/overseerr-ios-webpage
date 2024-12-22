@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - uses: wranders/markdown-to-pages-action@v1
+    - uses: say4n/markdown-to-pages-action-without-plug@v1
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         files: |-
