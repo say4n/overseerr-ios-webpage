@@ -17,7 +17,7 @@ jobs:
           index.md
           privacy/index.md
         title: "Overseerr iOS"
-    # - run: cp ./images ./dist/images/
+    - run: cp ./assets ./dist/assets/
     - uses: actions/upload-pages-artifact@v3
       with:
         path: dist
