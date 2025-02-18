@@ -16,7 +16,7 @@ jobs:
         files: |-
           index.md
           privacy/index.md
-        title: "Overseerr iOS"
+        title: "Ovue for Overseerr"
     - run: cp -r ./assets ./dist/assets/
     - uses: actions/upload-pages-artifact@v3
       with:
