@@ -1,4 +1,4 @@
-# Overseerr iOS
+# Ovue for Overseerr
 
 <p align="left">
     <a href="https://apps.apple.com/app/overseerr/id6581485306">
